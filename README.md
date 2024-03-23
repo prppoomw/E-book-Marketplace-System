@@ -28,4 +28,15 @@
  - ลบหนังสือในชั้นหนังสือ
 
 ## ERD
-![My Image](img/E-book-ERD.png)
+![ERD](img/E-book-ERD.png)
+
+## ตัวอย่างหน้าจอผู้ใช้งาน
+![login](img/login.png)
+![register](img/register.png)
+![homepage](img/homepage.png)
+![book](img/detail.png)
+![Add book](img/add.png)
+
+
+
+
