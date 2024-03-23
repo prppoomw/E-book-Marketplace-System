@@ -28,4 +28,4 @@
  - ลบหนังสือในชั้นหนังสือ
 
 ## ERD
-https://drive.google.com/file/d/15R1G8FMZbGQVApfXAC58RjRgCfERKggC/view?usp=sharing
+![My Image](image/E-book-ERD.png)
