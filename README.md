@@ -28,4 +28,4 @@
  - ลบหนังสือในชั้นหนังสือ
 
 ## ERD
-![My Image](image/E-book-ERD.png)
+![My Image](img/E-book-ERD.png)
